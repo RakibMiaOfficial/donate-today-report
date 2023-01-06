@@ -226,14 +226,20 @@ img {
     background-color: #FF5959;
     border-radius: 5px;
 }
+.contribute:hover{
+    background-color: #FFEEEE;
+    color: #FF5959;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+}
 
 /* section four styles */
 
-.section-four{
+.section-four {
     display: flex;
 }
 
-.img-two{
+.img-two {
 
     width: 456px;
     height: 477px;
@@ -241,6 +247,7 @@ img {
     margin-left: 250px;
     background-size: cover;
 }
+
 .text-survive {
     padding-top: 150px;
     width: 826px;
@@ -248,8 +255,83 @@ img {
     font-weight: 700;
     font-size: 65px;
 }
+
 .lorem-two {
     height: 84px;
     left: 156px;
     color: #707070;
+}
+
+/* section-five styles */
+
+.section-five {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.update {
+    margin-top: 150px;
+    padding-bottom: 20px;
+    height: 54px;
+    font-weight: 700;
+    font-size: 45px;
+
+}
+
+.lorem-three {
+    margin: 20px 600px;
+    width: 691px;
+    height: 56px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #707070;
+
+}
+
+.email-sub {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 0 316px;
+    border-radius: 10px;
+    background: #FFF4D6;
+}
+
+.subscribe {
+    color: #FFFFFF;
+    width: 157px;
+    height: 44px;
+    background: #FF5959;
+    border: 0;
+    border-radius: 0px 5px 5px 0px;
+}
+.subscribe:hover{
+    background-color: #FFEEEE;
+    color: #FF5959;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+}
+
+.email {
+    list-style: none;
+    width: 300px;
+    height: 44px ;
+    border: none;
+    border-radius: 5px 0 0 5px;
+    background: #D9D9D9;
+}
+/* footer style  */
+
+footer{
+    margin-top: 150px;
+    text-align: center;
+    background: #0B0D17;
+    color: #FF5959;
+    padding: 50px;
+}
+.be{
+    padding: 10px;
+}
+.do{
+    padding: 10px;
+    color: #D9DBE1;
 }
