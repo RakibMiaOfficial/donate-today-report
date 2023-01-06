@@ -180,3 +180,49 @@ img {
     margin-top: 80px;
     margin-right: 245px;
 }
+
+/* section three styles */
+
+.section-three {
+    display: flex;
+}
+
+.text-three {
+    padding-left: 400px;
+    width: 493px;
+    height: 374px;
+}
+
+.img-one {
+
+    width: 456px;
+    height: 477px;
+    margin-top: 150px;
+    margin-left: 250px;
+    background-size: cover;
+}
+
+.text-depend {
+    padding-top: 150px;
+    width: 826px;
+    height: 158px;
+    font-weight: 700;
+    font-size: 65px;
+}
+
+.lorem-text {
+    height: 84px;
+    left: 156px;
+    color: #707070;
+}
+
+.contribute {
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 20px;
+    padding: 20px;
+    border: 0;
+    background-color: #FF5959;
+    border-radius: 5px;
+}
