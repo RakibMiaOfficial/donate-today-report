@@ -226,3 +226,30 @@ img {
     background-color: #FF5959;
     border-radius: 5px;
 }
+
+/* section four styles */
+
+.section-four{
+    display: flex;
+}
+
+.img-two{
+
+    width: 456px;
+    height: 477px;
+    margin-top: 150px;
+    margin-left: 250px;
+    background-size: cover;
+}
+.text-survive {
+    padding-top: 150px;
+    width: 826px;
+    height: 158px;
+    font-weight: 700;
+    font-size: 65px;
+}
+.lorem-two {
+    height: 84px;
+    left: 156px;
+    color: #707070;
+}
